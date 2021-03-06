@@ -4,6 +4,13 @@
   "description": "WPMU DEV Shared UI React Modal Component",
   "keywords": [],
   "author": "WPMU DEV (https://premium.wpmudev.org/)",
+  "contributors": [
+    {
+      "name": "Leighton Sapir",
+      "email": "2328848+iamleigh@users.noreply.github.com",
+      "url": "https://iamleigh.com/"
+    }
+  ],
   "license": "GPL-3.0",
   "main": "lib/react-modal.js",
   "directories": {
