@@ -28,7 +28,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wpmudev/shared-ui-react.git"
+    "url": "git+https://github.com/wpmudev/shared-ui-react.git",
+    "directory": "packages/react-modal"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
