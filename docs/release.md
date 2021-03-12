@@ -18,7 +18,7 @@ Prepare new component(s) `package.json` file before publishing to [NPM Registry]
 
 ### 1. Author and Contributors
 
-The author of all the packages is [WPMU DEV](https://premium.wpmudev.org/) while all the persons involved in the creation or improvement of the component must be added as contributors.
+The author of all the packages is [WPMU DEV](https://wpmudev.com/) while all the persons involved in the creation or improvement of the component must be added as contributors.
 
 ```json
 "author": "WPMU DEV",

@@ -4,7 +4,7 @@
 ![npm peer dependency version](https://img.shields.io/npm/dependency-version/@wpmudev/react-post/styled-components)
 
 # Post
-Post is a component that quick shows [WPMU DEV](https://premium.wpmudev.org/blog/) blog posts.
+Post is a component that quick shows [WPMU DEV](https://wpmudev.com/blog/) blog posts.
 
 > This component must be used with [Tutorials](https://www.npmjs.com/package/@wpmudev/react-tutorials) component only. It is not optimized to work without it.
 

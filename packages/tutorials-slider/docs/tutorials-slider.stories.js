@@ -37,7 +37,7 @@ primary.storyName = 'Slider';
 primary.args = {
 	title: 'Tutorials',
 	category: defender,
-	viewAll: 'https://premium.wpmudev.org/',
+	viewAll: 'https://wpmudev.com/',
 };
 primary.parameters = {
 	notes: Documentation

@@ -327,7 +327,7 @@ export class TutorialsSlider extends Component {
 
 	componentDidMount() {
 		const API_URL =
-			"https://premium.wpmudev.org/blog/wp-json/wp/v2/posts?tutorials_categories=";
+			"https://wpmudev.com/blog/wp-json/wp/v2/posts?tutorials_categories=";
 		const QUERY_ID = this.props.category;
 
 		// GET posts using fetch.

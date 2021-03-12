@@ -4,7 +4,7 @@
 
 # Tutorials
 
-Tutorials allows you to showcase [WPMU DEV](https://premium.wpmudev.org/blog/) posts tagged as `tutorials` in [Lists Mode](https://wpmudev.github.io/shared-ui-react/?path=/story/tutorials-list--primary) or [Slider Mode](https://wpmudev.github.io/shared-ui-react/?path=/story/tutorials-slider--primary).
+Tutorials allows you to showcase [WPMU DEV](https://wpmudev.com/blog/) posts tagged as `tutorials` in [Lists Mode](https://wpmudev.github.io/shared-ui-react/?path=/story/tutorials-list--primary) or [Slider Mode](https://wpmudev.github.io/shared-ui-react/?path=/story/tutorials-slider--primary).
 
 ## Installation
 
@@ -34,7 +34,7 @@ const MyApp = () => {
       <TutorialsSlider
         title="Tutorials"
         category={ category_id }
-        viewAll="https://premium.wpmudev.org/blog/"
+        viewAll="https://wpmudev.com/blog/"
       />
 
     </>
@@ -48,7 +48,7 @@ The following are **Tutorials** components. Other components outside of this pac
 
 ### List
 
-[Tutorials List](https://wpmudev.github.io/shared-ui-react/?path=/story/tutorials-list--primary) allows you to list [WPMU DEV](https://premium.wpmudev.org/blog/) posts categorized by plugin name and tagged as tutorials.
+[Tutorials List](https://wpmudev.github.io/shared-ui-react/?path=/story/tutorials-list--primary) allows you to list [WPMU DEV](https://wpmudev.com/blog/) posts categorized by plugin name and tagged as tutorials.
 
 ```js
 import React from 'react';
@@ -79,7 +79,7 @@ category | string | Yes | Retrieve posts tagged as "tutorial" from plugin catego
 
 ### Slider
 
-[Tutorials Slider](https://wpmudev.github.io/shared-ui-react/?path=/story/tutorials-slider--primary) allows you to list [WPMU DEV](https://premium.wpmudev.org/blog/) posts categorized by plugin name and tagged as tutorials. These posts will appear as a slideshow and the block can be dismissed.
+[Tutorials Slider](https://wpmudev.github.io/shared-ui-react/?path=/story/tutorials-slider--primary) allows you to list [WPMU DEV](https://wpmudev.com/blog/) posts categorized by plugin name and tagged as tutorials. These posts will appear as a slideshow and the block can be dismissed.
 
 ```js
 import React from 'react';
@@ -92,7 +92,7 @@ const MyApp = () => {
     <TutorialsSlider
       title="Tutorials"
       category={ category_id }
-      viewAll="https://premium.wpmudev.org/blog/"
+      viewAll="https://wpmudev.com/blog/"
     />
   );
 }

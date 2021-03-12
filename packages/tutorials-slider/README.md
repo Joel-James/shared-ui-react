@@ -4,7 +4,7 @@
 ![npm peer dependency version](https://img.shields.io/npm/dependency-version/@wpmudev/react-tutorials-slider/styled-components)
 
 # Tutorials: Slider
-[Tutorials Slider](https://wpmudev.github.io/shared-ui-react/?path=/story/tutorials-slider--primary) allows you to list [WPMU DEV](https://premium.wpmudev.org/blog/) posts categorized by plugin name and tagged as tutorials. These posts will appear as a slideshow and the block can be dismissed.
+[Tutorials Slider](https://wpmudev.github.io/shared-ui-react/?path=/story/tutorials-slider--primary) allows you to list [WPMU DEV](https://wpmudev.com/blog/) posts categorized by plugin name and tagged as tutorials. These posts will appear as a slideshow and the block can be dismissed.
 
 ## Installation
 ```
@@ -25,7 +25,7 @@ const MyApp = () => {
     <TutorialsSlider
       title="Tutorials"
 	  category={ category_id }
-	  viewAll="https://premium.wpmudev.org/blog/"
+	  viewAll="https://wpmudev.com/blog/"
     />
   );
 }

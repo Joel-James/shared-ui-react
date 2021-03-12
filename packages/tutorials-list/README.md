@@ -4,7 +4,7 @@
 ![npm peer dependency version](https://img.shields.io/npm/dependency-version/@wpmudev/react-tutorials-list/styled-components)
 
 # Tutorials: List
-[Tutorials List](https://wpmudev.github.io/shared-ui-react/?path=/story/tutorials-list--primary) allows you to list [WPMU DEV](https://premium.wpmudev.org/blog/) posts categorized by plugin name and tagged as tutorials.
+[Tutorials List](https://wpmudev.github.io/shared-ui-react/?path=/story/tutorials-list--primary) allows you to list [WPMU DEV](https://wpmudev.com/blog/) posts categorized by plugin name and tagged as tutorials.
 
 ## Installation
 ```
